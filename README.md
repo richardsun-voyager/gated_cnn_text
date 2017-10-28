@@ -1,2 +1,3 @@
 # text_classification_cnn
-Use CNN to extract features of texts and classify them
+This project aims to use CNN model to extract features and classify 20newgroup. The original model: https://github.com/dennybritz/cnn-text-classification-tf.
+
